@@ -1,2 +1,3 @@
 # Bootstrap
-Ejercicio de HTML usando únicamente Bootstrap
+#Curso Codo a Codo
+Actividad practica de HTML usando únicamente Bootstrap
